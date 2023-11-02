@@ -8,4 +8,11 @@ public class main {
     solarsys.Moon="2";
     solarsys.Planets="2";
     solarsys.Stars="10";
+    
+
+        //        **planet2**
+        Planet2 xaros=new Planet2();
+        xaros.name="nehaio";
+        xaros.color="blue";
+        xaros.size="32432432324324km";
 }}
